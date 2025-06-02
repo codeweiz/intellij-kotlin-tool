@@ -1,2 +1,2 @@
 rootProject.name = "intellij-kotlin-tool"
-include("common")
+include("common", "guice-action")
